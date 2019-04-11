@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/btnVerUsuarios"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Ver Usuarios"/>
+    <Button
+        android:id="@+id/btnGrupo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Grupo"/>
+    <Button
+        android:id="@+id/btnCerrarSesion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="CerrarSesion"/>
+
+</LinearLayout>
